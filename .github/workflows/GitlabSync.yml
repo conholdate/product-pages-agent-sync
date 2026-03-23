@@ -30,8 +30,8 @@ on:
 
   # Optional automatic sync on a schedule, since this public repo
   # won't receive push events from the private source repo.
-  schedule:
-    - cron: "*/30 * * * *"
+  #schedule:
+    #- cron: "*/30 * * * *"
 
 permissions:
   contents: read
