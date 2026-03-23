@@ -1,4 +1,4 @@
-name: Sync Private GitHub Repo to GitLab
+name: Sync GitHub Repo to GitLab
 
 on:
   workflow_dispatch:
